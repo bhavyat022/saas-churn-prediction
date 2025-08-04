@@ -1,0 +1,9 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+mlruns/
+*.pkl
+.DS_Store
+.env
+.ipynb_checkpoints/
