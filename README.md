@@ -19,13 +19,21 @@ End-to-end project to predict churn in SaaS platforms using behavioral and subsc
 ## 📁 Folder Structure
 
 saas-churn-prediction/
+
 ├── data/
+
 ├── notebooks/
+
 ├── models/
+
 ├── app/
+
 ├── utils/
+
 ├── mlruns/
+
 ├── requirements.txt
+
 └── README.md
 
 
